@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TemperatureConverter
+comment0.text=3.14\r\n
+comment1.params=celciusTemp
+comment1.target=void\ CelciusToKelvin(int)
+comment2.params=kelvinTemp
+comment2.target=void\ KelvinToCelcius(int)
+comment3.params=celciusTemp
+comment3.target=void\ CelciusToFahreinheit(int)
+comment4.params=fahrenheitTemp
+comment4.target=void\ FahrenheitToCelcius(int)
+comment5.params=kelvinTemp
+comment5.target=void\ KelvinToFahrenheit(int)
+comment6.params=fahrenheitTemp
+comment6.target=void\ FahrenheitToKelvin(int)
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CinemaTicket
+comment1.params=newName
+comment1.target=void\ setFilmname(java.lang.String)
+comment2.params=newRow
+comment2.target=void\ setRow(int)
+comment3.params=newSeat
+comment3.target=void\ setSeat(int)
+comment4.params=newPrice
+comment4.target=void\ setPrice(int)
+comment5.params=
+comment5.target=void\ ticketData()
+numComments=6
