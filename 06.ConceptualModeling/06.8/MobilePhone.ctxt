@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MobilePhone
+comment1.params=model\ brand\ number\ yearOfProduction\ isOn\ alarm
+comment1.target=MobilePhone(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=void\ displayInfo()
+comment3.params=
+comment3.target=boolean\ turnOn()
+comment4.params=isOn
+comment4.target=boolean\ turnOff(boolean)
+comment5.params=alarmClock
+comment5.target=java.lang.String\ setAlarm(java.lang.String)
+numComments=6
