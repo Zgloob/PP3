@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Processor
+comment1.params=model\ manufacturer\ yearOfProduction\ numberOfCores\ isOn
+comment1.target=void\ Processor(java.lang.String,\ java.lang.String,\ int,\ int,\ boolean)
+numComments=2
